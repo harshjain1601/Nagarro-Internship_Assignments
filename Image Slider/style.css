@@ -1,0 +1,71 @@
+@media screen {
+
+    body{
+        background-image: url('https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/ology-images/astronomy/the-milky-way-galaxy/bode-s-galaxy/4967591-2-eng-US/bode-s-galaxy.jpg');
+        background-repeat: no-repeat;
+        background-size: 1380px 919px;
+    }
+    #outercontainer{
+        position: absolute;
+        top:160px;
+        left:337px;
+        width: 50%;
+        height: 70%;
+    }
+    #leftarrow{
+        float: left;
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        border-width: 2px;
+        border-style: solid;
+        background:white;
+        position: relative;
+        top: 130px;
+    }
+    #rightarrow{
+        float: right;
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        border-width: 2px;
+        border-style: solid;
+        background:white;
+        position: relative;
+        top: 130px;
+    }
+    #icon1{
+        position: relative;
+        left: 4px;
+        top:-3px;
+        color: black;
+    }
+    #icon2{
+        position: relative;
+        right: -6px;
+        top:-3px;
+        color: black;
+    }
+    .innercontainer{
+        position: absolute;
+        left:110px;
+        width: 70%;
+        height: 70%;
+    }
+    #circleicon{
+        position: relative;
+        top: 410px;
+        left:330px;
+    }
+    .slide{
+        display: none;
+    }
+    #mark1, #mark2, #mark3, #mark4, #mark5, #mark6, #mark7,#mark8{
+        color: white;
+    }
+    img{
+        position: relative;
+        width: 75vh;
+        height: 50vh;
+    }
+    }
