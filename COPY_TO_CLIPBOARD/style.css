@@ -1,0 +1,32 @@
+body {
+    background: radial-gradient(red, yellow)
+}
+
+label {
+    left: 18vh;
+    position: relative;
+    top: -53vh;
+}
+
+#outer {
+    position: relative;
+    top: 15vh;
+    left: 28vh;
+    width: 171vh;
+}
+
+#textBox1, #textBox2 {
+    margin: 30px;
+    border-radius: 8px;
+}
+
+#copyButton {
+    top: -32vh;
+    position: relative;
+    width: 12vh;
+    height: 5vh;
+    border-radius: 8px;
+    border-style: outset;
+    background-color: rgb(255, 189, 127);
+    cursor: pointer;
+}
