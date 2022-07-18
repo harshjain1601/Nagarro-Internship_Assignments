@@ -1,0 +1,69 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/1567666.png');
+    background-repeat: no-repeat;
+    background-size: 1400px 800px; 
+    
+}
+
+.info {
+    position: relative;
+    width: 40%;
+    left: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    border-style: groove;
+    border-radius: 5px;
+    border-color:hotpink;
+    box-shadow: 10px 10px 16px aqua;
+}
+
+.projects-list {
+    position: relative;
+    width: 40%;
+    left: 30%;
+    top: 2vh;
+    font-family: 'Times New Roman', Times, serif;
+    color:aqua;
+    border-style: groove;
+    border-radius: 5px;
+    border-color:hotpink;
+    box-shadow: 10px 10px 16px aqua;
+}
+
+.project {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.project:first-of-type {
+    padding-top: 4px;
+}
+
+.project-name {
+    text-align: left;
+}
+
+.btns {
+    position: relative;
+    float: right;
+    top: -6vh;
+}
+
+button {
+    border-style: none;
+    width: 5vh;
+    height: 5vh;
+    background-color: transparent;
+}
+
+a {
+    color: aqua;
+}
+
+a:hover {
+    color: pink;
+}
+
+i {
+    font-size: 20px;
+}
