@@ -1,0 +1,57 @@
+body{
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button1{
+    position: relative;
+    left: 480px;
+}
+
+.group1 {
+    position: relative;
+    width: 50%;
+    height: 80%;
+    top: 10vh;
+    float: left;
+}
+
+
+.box1 {
+    position: inherit;
+    display: none;
+    width: 60vh;
+    height: 60vh;
+    left: 320px;
+    top: 8vh;
+    color: black;
+}
+
+.btn1 {
+    height: 6vh;
+    border-style: hidden;
+    border-radius: 5px;
+    left: 15px;
+    background-color: aqua;
+}
+
+#submitBtn1 {
+    position: relative;
+    width: 14vh;
+    height: 7vh;
+    top: 8px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+i {
+    background-color: red;
+    height: 3vh;
+    width: 3vh;
+    text-align: center;
+    font-size: 3vh;
+    float: right;
+    top: 10px;
+    position: relative;
+    cursor: pointer;
+}
